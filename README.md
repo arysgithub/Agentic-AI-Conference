@@ -1,6 +1,5 @@
 # Agentic-AI-Conference Notes & Experiments
-This repo documents my notes, learnings, practical experiments and demos on the **Agentic AI Conference (2025)** hosted by Raja Iqbal (Data Science Dojo, Ejento AI), and I will be learning directly from engineers, founders, and researchers at: AWS, Google DeepMind, Weaviate, Pinecone, Reka AI, LandingAI, Neo4j,  Docker, Haystack, Arize AI, Together AI, Serrano Academy, CrewAI, Ejento AI, Wand Ai  and many more
-
+This repo documents my notes, learnings, practical experiments and demos on the **Agentic AI Conference (2025)** hosted by Raja Iqbal (Data Science Dojo, Ejento AI), and I will be learning directly from engineers, founders, and researchers.
 This forms part of my **18-week DevOps + Agentic AI Journey**, where I combine cloud engineering with multi-agent system design.
 
 ---
@@ -14,7 +13,8 @@ This forms part of my **18-week DevOps + Agentic AI Journey**, where I combine c
   Featuring: Taimur Rashid (Director @ AWS), João Moura (CEO @ CrewAI), Gabriela de Queiroz (Founder @ f02 Labs), Ali Arsanjani (Applied AI Engineer @ Google Cloud AI)  
 
 - [Managing Security & Governance in MCP Deployment](03-Managing_Security_and_Governance_in_MCP_Deployment.md)  
-  Featuring: Raja Iqbal (Founder @ Ejento AI), Alex Salazar (CEO @ Arcade.dev), Mark Cavage (Vice President of Engineering @ Docker), Reena Agarwal (Atlassian)  
+  Featuring: Raja Iqbal (Founder @ Ejento AI), Alex Salazar (Co-founder & CEO @ Arcade.dev), Mark Cavage (President @ Docker, Inc, ex-Amazon Web Services (AWS) & Stripe), Reena Agarwal (Engineering Leader @ Atlassian)
+
 
 - [Deploying an end-to-end Agentic AI Workflow](04-Deploy_End-to-End_Agentic_Ai_Workflow.md)  
   Led by Raja Iqbal (Founder @ Data Science Dojo and Ejento AI)
