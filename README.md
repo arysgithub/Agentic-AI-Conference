@@ -7,24 +7,46 @@ This forms part of my **18-week DevOps + Agentic AI Journey**, where I combine c
 
 ## 📂 Session Notes  
 
-- [Designing Intelligent Agents](./Panel-8-Designing-Agents.md)  
+- [Designing Intelligent Agents](01-Designing_Intelligent_Agents.md)  
   *Presenters:* Luis Serrano (Weaviate), Reka AI Team  
 
-- [Architecting Scalable Multi-Agent Workflows](./Panel-9-Multi-Agent-Workflows.md)  
+- [Architecting Scalable Multi-Agent Workflows](02-Architecting_Scalable_Multi-Agent_Workflows.md)  
   *Presenters:* Taimur Rashid (AWS), João Moura (CrewAI), Gabriela de Queiroz (f02 labs), Ali Arsanjani (Google)  
 
-- [Managing Security & Governance in MCP Deployment](./Panel-10-Security-Governance-MCP.md)  
+- [Managing Security & Governance in MCP Deployment](./03-Managing_Security_Governance_MCP_Deployment.md)  
   *Presenters:* Raja Iqbal (Ejento AI), Alex Salazar (Arcade.dev), Mark Cavage (Docker), Reena Argarwal (Atlassian)  
 
-- [Building Self-Improving Agentic Systems](./Panel-11-Self-Improving-Systems.md)  
+- [Building Self-Improving Agentic Systems](04-Deploy_End-to-End_Agentic_Ai_Workflow.md)  
   *Presenter:* Isaac Privitera (AWS / Bedrock + Strands SDK)  
 
-- [Research Assistants & Vision-Enabled Agents](./Panel-12-Research-Vision-Agents.md)  
+- [Research Assistants & Vision-Enabled Agents](05-Build_Self-Improving_Agentic_Systems.md)  
   *Presenters:* Pinecone, Arize, Haystack Teams  
 
-- [Agentic Document Extraction with LandingAI](./Panel-13-Document-Extraction-LandingAI.md)  
+- [Agentic Document Extraction with LandingAI](06-Complex_Document_Extraction.md)  
   *Presenter:* Andrea Kropp (Landing AI)  
 
+04-Deploy_End-to-End_Agentic_Ai_Workflow.md
+Rename 4-Deploy_End-to-End_Agentic_Ai_Workflow.md to 04-Deploy_End-to…
+8 minutes ago
+05-Build_Self-Improving_Agentic_Systems.md
+Rename 5-Build_Self-Improving_Agentic_Systems.md to 05-Build_Self-Imp…
+8 minutes ago
+06-Complex_Document_Extraction.md
+Rename 6-Complex_Document_Extraction.md to 06-Complex_Document_Extrac…
+8 minutes ago
+07-Building_GraphRAG_Systems.md
+Rename 7-Building_GraphRAG_Systems.md to 07-Building_GraphRAG_Systems.md
+7 minutes ago
+08-Building_Vision-Enabled_Agents.md
+Rename 8-Building_Vision-Enabled_Agents.md to 08-Building_Vision-Enab…
+7 minutes ago
+09-Build_Agentic_Research_Assistants.md
+Rename 9-Build_Agentic_Research_Assistants.md to 09-Build_Agentic_Res…
+7 minutes ago
+10-Build_Event_Driven_Agents.md
+Create 10-Build_Event_Driven_Agents.md
+11 minutes ago
+11-Build_Smarter_Agentic_Ai_Workflows.md
 ---
 
 ## 🔑 Why This Repo?
