@@ -8,53 +8,46 @@ This forms part of my **18-week DevOps + Agentic AI Journey**, where I combine c
 ## 📂 Session Notes  
 
 - [Designing Intelligent Agents](01-Designing_Intelligent_Agents.md)  
-  *Presenters:* Luis Serrano (Weaviate), Reka AI Team  
+  Featuring: Zain Hasan (staff ML engineer @ Together AI), Lorenze Jay Hernandez (Lead OOS engineer @ CrewAI), Kartik Talamadupula (Head of AI @ Wand AI), Sarah Wooders (Co-founder @ Letta AI)
 
 - [Architecting Scalable Multi-Agent Workflows](02-Architecting_Scalable_Multi-Agent_Workflows.md)  
-  *Presenters:* Taimur Rashid (AWS), João Moura (CrewAI), Gabriela de Queiroz (f02 labs), Ali Arsanjani (Google)  
+  Featuring: Taimur Rashid (Director @ AWS), João Moura (CEO @ CrewAI), Gabriela de Queiroz (Founder @ f02 Labs), Ali Arsanjani (Applied AI Engineer @ Google Cloud AI)  
 
-- [Managing Security & Governance in MCP Deployment](./03-Managing_Security_Governance_MCP_Deployment.md)  
-  *Presenters:* Raja Iqbal (Ejento AI), Alex Salazar (Arcade.dev), Mark Cavage (Docker), Reena Argarwal (Atlassian)  
+- [Managing Security & Governance in MCP Deployment](03-Managing_Security_and_Governance_in_MCP_Deployment.md)  
+  Featuring: Raja Iqbal (Founder @ Ejento AI), Alex Salazar (CEO @ Arcade.dev), Mark Cavage (Vice President of Engineering @ Docker), Reena Agarwal (Atlassian)  
 
-- [Building Self-Improving Agentic Systems](04-Deploy_End-to-End_Agentic_Ai_Workflow.md)  
-  *Presenter:* Isaac Privitera (AWS / Bedrock + Strands SDK)  
+- [Deploying an end-to-end Agentic AI Workflow]() 
+  Lead by Raja Iqbal (Founder @ Data Science Dojo and Ejento AI)
 
-- [Research Assistants & Vision-Enabled Agents](05-Build_Self-Improving_Agentic_Systems.md)  
-  *Presenters:* Pinecone, Arize, Haystack Teams  
+- [Building Self-Improving Agentic Systems](05-Building_Self-Improving_Agentic_Systems.md)  
+  Led by Isaac Privitera (Principal Engineer, Agents @ AWS, Bedrock + Strands SDK)  
 
-- [Agentic Document Extraction with LandingAI](06-Complex_Document_Extraction.md)  
-  *Presenter:* Andrea Kropp (Landing AI)  
+- [Agentic Document Extraction with LandingAI](06-Agentic_Document_Extraction_with_LandingAI.md)  
+  Led by Andrea Kropp (Customer-Facing ML Engineer @ LandingAI)  
 
-04-Deploy_End-to-End_Agentic_Ai_Workflow.md
-Rename 4-Deploy_End-to-End_Agentic_Ai_Workflow.md to 04-Deploy_End-to…
-8 minutes ago
-05-Build_Self-Improving_Agentic_Systems.md
-Rename 5-Build_Self-Improving_Agentic_Systems.md to 05-Build_Self-Imp…
-8 minutes ago
-06-Complex_Document_Extraction.md
-Rename 6-Complex_Document_Extraction.md to 06-Complex_Document_Extrac…
-8 minutes ago
-07-Building_GraphRAG_Systems.md
-Rename 7-Building_GraphRAG_Systems.md to 07-Building_GraphRAG_Systems.md
-7 minutes ago
-08-Building_Vision-Enabled_Agents.md
-Rename 8-Building_Vision-Enabled_Agents.md to 08-Building_Vision-Enab…
-7 minutes ago
-09-Build_Agentic_Research_Assistants.md
-Rename 9-Build_Agentic_Research_Assistants.md to 09-Build_Agentic_Res…
-7 minutes ago
-10-Build_Event_Driven_Agents.md
-Create 10-Build_Event_Driven_Agents.md
-11 minutes ago
-11-Build_Smarter_Agentic_Ai_Workflows.md
----
+- [Building GraphRAG Systems](07-Building_GraphRAG_Systems.md)  
+  *(Presenters to be added)*  
+
+- [Building Vision-Enabled Agents](08-Building_Vision-Enabled_Agents.md)  
+  *(Presenters to be added)*  
+
+- [Building Agentic Research Assistants](09-Build_Agentic_Research_Assistants.md)  
+  *(Presenters to be added)*  
+
+- [Building Event-Driven Agents](10-Build_Event_Driven_Agents.md)  
+  *(Presenters to be added)*  
+
+- [Building Smarter Agentic AI Workflows](11-Build_Smarter_Agentic_Ai_Workflows.md)  
+  *(Presenters to be added)*  
+
 
 ## 🔑 Why This Repo?
 Agentic AI is at the cutting edge of **enterprise AI adoption**. This repo serves as:
-- A **knowledge base** for myself and the community  
+- A **knowledge base** for myself and the community alongside my DevOps + AgenticOps journey  
 - A **bridge** between DevOps workflows and AgenticOps  
-- A **public proof-of-learning** in my 18-week challenge  
-
+- A **public proof-of-learning** in my 18-week challenge
+- **Screenshots + notes inline** for clarity  
+- **Centralised notes** on cutting-edge Agentic AI talks
 ---
 
 ## 📌 Next Steps
