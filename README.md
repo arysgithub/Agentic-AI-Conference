@@ -16,8 +16,8 @@ This forms part of my **18-week DevOps + Agentic AI Journey**, where I combine c
 - [Managing Security & Governance in MCP Deployment](03-Managing_Security_and_Governance_in_MCP_Deployment.md)  
   Featuring: Raja Iqbal (Founder @ Ejento AI), Alex Salazar (CEO @ Arcade.dev), Mark Cavage (Vice President of Engineering @ Docker), Reena Agarwal (Atlassian)  
 
-- [Deploying an end-to-end Agentic AI Workflow]() 
-  Lead by Raja Iqbal (Founder @ Data Science Dojo and Ejento AI)
+- [Deploying an end-to-end Agentic AI Workflow](04-Deploy_End-to-End_Agentic_Ai_Workflow.md)  
+  Led by Raja Iqbal (Founder @ Data Science Dojo and Ejento AI)
 
 - [Building Self-Improving Agentic Systems](05-Building_Self-Improving_Agentic_Systems.md)  
   Led by Isaac Privitera (Principal Engineer, Agents @ AWS, Bedrock + Strands SDK)  
