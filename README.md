@@ -5,19 +5,25 @@ This forms part of my **18-week DevOps + Agentic AI Journey**, where I combine c
 
 ---
 
-## 📂 Repo Structure
-- `week-2-agentic-ai/day-8` → *Designing Intelligent Agents* (Cognitive architectures, LLM memory, planning)
-- `week-2-agentic-ai/day-9` → *Scalable Multi-Agent Workflows*
-- `week-2-agentic-ai/day-10` → *End-to-End Agentic Workflow (Ejento AI)*
-- `week-2-agentic-ai/day-11` → *Self-Improving Systems (AWS + Strands SDK)*
-- `week-2-agentic-ai/day-12` → *Agentic Research Assistants + Vision Agents*
-- `week-2-agentic-ai/day-13` → *Agentic Document Extraction (Landing AI)*
+## 📂 Session Notes  
 
-Each folder includes:
-- **notes.md** → key takeaways and my reflections  
-- **resources.md** → session resources, links, repos  
-- **code-snippets/** → experimental code or SDK trials  
-- **screenshots/** → annotated session slides/screens  
+- [Designing Intelligent Agents](./Panel-8-Designing-Agents.md)  
+  *Presenters:* Luis Serrano (Weaviate), Reka AI Team  
+
+- [Architecting Scalable Multi-Agent Workflows](./Panel-9-Multi-Agent-Workflows.md)  
+  *Presenters:* Taimur Rashid (AWS), João Moura (CrewAI), Gabriela de Queiroz (f02 labs), Ali Arsanjani (Google)  
+
+- [Managing Security & Governance in MCP Deployment](./Panel-10-Security-Governance-MCP.md)  
+  *Presenters:* Raja Iqbal (Ejento AI), Alex Salazar (Arcade.dev), Mark Cavage (Docker), Reena Argarwal (Atlassian)  
+
+- [Building Self-Improving Agentic Systems](./Panel-11-Self-Improving-Systems.md)  
+  *Presenter:* Isaac Privitera (AWS / Bedrock + Strands SDK)  
+
+- [Research Assistants & Vision-Enabled Agents](./Panel-12-Research-Vision-Agents.md)  
+  *Presenters:* Pinecone, Arize, Haystack Teams  
+
+- [Agentic Document Extraction with LandingAI](./Panel-13-Document-Extraction-LandingAI.md)  
+  *Presenter:* Andrea Kropp (Landing AI)  
 
 ---
 
